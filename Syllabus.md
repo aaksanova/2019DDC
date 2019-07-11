@@ -43,7 +43,7 @@ This class is designed for a 2 hour period.
 * Index cards + pens/pencils
 
 ### Exercises To Do Before Class
-Look up 3 blockchain copmanies. 
+Look up 3 blockchain companies. 
 
 ## Vocab
 - blockchain: a list of records linked through crytography 
