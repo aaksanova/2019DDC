@@ -1,4 +1,4 @@
-# "Blockchain: What’s All The Hype About?" by [Adelya](https://www/astar.app)
+# "Blockchain: What’s All The Hype About?" by [Adelya](https://www.astar.app)
 ---
 ## Essential Questions
  * why is there so much hype with blockchain?
